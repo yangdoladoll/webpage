@@ -1,0 +1,39 @@
+.grid-icon {
+    width: 40px;
+    height: 40px;
+    padding-left: 5px;
+}
+.drive-link{
+    padding-left: 10px;
+} 
+#source {
+    margin-left: 80%;
+}
+.profile-icon{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-position: -25px-20px;
+}
+.google-logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+}
+#inputs{
+    border-radius: 1em;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 470px;;
+    width:400px;
+    height: 30px;
+}
+.button{
+    position:absolute;
+    top: 500px;
+    left: 550px;
+}
+.btn:hover{
+    background-color: gray;
+}
